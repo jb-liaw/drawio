@@ -25,6 +25,8 @@ Another way is to use [the recommended Docker project](https://github.com/jgraph
 
 The full packaged .war of the client and servlets is built when the project is tagged and available on the [releases page](https://github.com/jgraph/draw.io/releases).
 
+https://jb-liaw.github.io/drawio/src/main/webapp/index.html
+
 Supported Browsers
 ------------------
 diagrams.net supports IE 11, Chrome 70+, Firefox 70+, Safari 11+, Opera 50+, Native Android browser 7x+, the default browser in the current and previous major iOS versions (e.g. 11.2.x and 10.3.x) and Edge 79+.
